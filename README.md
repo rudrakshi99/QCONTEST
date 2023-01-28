@@ -1,4 +1,4 @@
-# ME_QCONTEST
+# QCONTEST
 
 QContest Platform Application allows users to create and participate in contests.
 
